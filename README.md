@@ -5,8 +5,7 @@ This project is used to download videos from a paticular course in lindein learn
 
 Get the URLS using javascript
 1. Login to Linedin learn, go to the course and start playing the first video
-2. Run the contents of chromeconsole.js in your browser, I usally save the code the run it as snippet.  Before running clear your console 
-for existing junk data
-3.It will display all available url links
+2. Run the contents of chromeconsole.js in your browser, I usually save the code the run it as snippet.  Before running clear your console of  existing junk data
+3.After running, It will display all available url links
 4.copy the entire console data and save it as console.log 
 5.Copy the file to this directory and run  	linkedinlearn_downloader.py and it will download all videos
